@@ -94,8 +94,45 @@ _**Note:** Add your program descriptions below._
 
 ### v0.2
 
-**[etc.]**
+**[A [calculator](avgCalc.js) finding the average between two numbers to demostrate variables ]**
 
+### v0.3
+
+**[A [program](ageExample.js) that prints different staments based on incremenets, utilizes if statements  ]**
+
+### v0.4
+
+**[A [stopwatch] (stopwatch.js) to demonstrate incrementations ]**
+
+### v0.5
+
+**[The first [project] (boardClearingGame.js) is a simple game where your objective is to clear the board, demostrates  ]**
+
+### v0.6
+
+**[A [game](stackTower.js) where the objective is to stack a tower, demonstrated how to use the LEDs and adjust brightness]**
+
+### v0.7
+
+**[A [program] (count.js) that determines if the correct amount of inputs are reached, demostrates boolean   ]**
+
+### v0.8
+
+**[A [program](fourBit.js) that converts a binary number to a regular interger  ]**
+
+### v0.9
+
+**[A [game](radioGame.js) that requires two microbits and demonstrates that numbers and string can be transmitted between micro bits  ]**
+
+### v0.10
+
+**[A [list](groceryList.js) demostrating how to retreive elements in an array ]**
+
+### v0.11
+
+**[]**
+
+###
 ## Designs
 
 _**Note:** Add your project designs below._
