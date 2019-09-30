@@ -143,15 +143,15 @@ _**Note:** Add your project designs below._
 
 #### Goal
 
-**[your short description]**
+**[My goal was to demonstrate the fundamentals of each section and try to use some other function of the microbit like the pause command]**
 
 #### Design process
 
-**[your sketches, the things you tried, the questions you asked yourself, the answers, the sticking points, the iterations, the restarts, the final version]**
+**[How do I make a program that explores all these topics with no outside modifications readily available? Start off simple and write out the simple things like varaibles and input and maybe an idea will manifest. The microBit has unique LEDs that could be utilized. It's important to me to always be as clear and concise as possible so anyone can understand the program when the y see it, so detailed instructions are very important to me.  ]**
 
 #### JS Constructs & objects
 
-**[which JavaScript features you used in the implementation of your project idea]**
+**[Variables, if-statements, input, ouput, show methods?, for loops]**
 
 ### Final project
 
