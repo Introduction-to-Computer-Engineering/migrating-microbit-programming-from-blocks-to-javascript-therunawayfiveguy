@@ -90,7 +90,7 @@ _**Note:** Add your program descriptions below._
 
 ### v0.1
 
-**[A simple hello world [program](helloWorld.js) to demostrate input and output**]
+**[A simple hello world [program](helloWorld.js) to demostrate input and output]**
 
 ### v0.2
 
