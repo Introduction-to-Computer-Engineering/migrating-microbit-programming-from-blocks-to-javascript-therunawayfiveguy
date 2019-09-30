@@ -102,11 +102,11 @@ _**Note:** Add your program descriptions below._
 
 ### v0.4
 
-**[A [stopwatch] (stopwatch.js) to demonstrate incrementations ]**
+**[A [stopwatch](stopwatch.js) to demonstrate incrementations ]**
 
 ### v0.5
 
-**[The first [project] (boardClearingGame.js) is a simple game where your objective is to clear the board, demostrates  ]**
+**[The first [project](boardClearingGame.js) is a simple game where your objective is to clear the board, demostrates  ]**
 
 ### v0.6
 
@@ -114,7 +114,7 @@ _**Note:** Add your program descriptions below._
 
 ### v0.7
 
-**[A [program] (count.js) that determines if the correct amount of inputs are reached, demostrates boolean   ]**
+**[A [program](count.js) that determines if the correct amount of inputs are reached, demostrates boolean   ]**
 
 ### v0.8
 
