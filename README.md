@@ -130,7 +130,7 @@ _**Note:** Add your program descriptions below._
 
 ### v0.11
 
-**[]**
+**[A [thermostat](tempAverage.js) that shows the average temperature and when the temp changes]**
 
 ###
 ## Designs
@@ -155,4 +155,8 @@ _**Note:** Add your project designs below._
 
 ### Final project
 
-**[etc.]**
+**[My goal wat to demosntrate understanding of topics outside of the lessons that the micro bit provided]**
+
+**[I tackled the prompt one step at a time. I wanted to make sure each worked. Then i needed to figure out how to git all the parts together because there was some interferencce that happend. I need to make the user knows the instructions so there is no confusion on how to operate  ]**
+
+**[Variable, input, output, increment, while loop]**
